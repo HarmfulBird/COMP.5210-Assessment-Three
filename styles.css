@@ -114,7 +114,6 @@ header h2 {
 .navbar-nav li:first-child {
     margin-right: 15px;
     padding-right: 15px;
-    border-right: 2px solid white;
 }
 
 navbar-nav li .current {
